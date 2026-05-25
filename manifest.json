@@ -1,11 +1,11 @@
 {
-  "name": "Organizador Rocha",
+  "name": "Organizer",
   "short_name": "Organizer",
-  "description": "Planejador tarefas diarias, financeira e sonhos",
-  "start_url": ".",
+  "description": "Organize tarefas, finanças e sonhos",
+  "start_url": "https://tgrochabrq-commits.github.io/Organizer/",
   "display": "standalone",
-  "background_color": "#f5f2ee",
-  "theme_color": "#90e3a5",
+  "background_color": "#fefafa",
+  "theme_color": "#75cb86",
   "orientation": "portrait",
   "icons": [
     {
@@ -19,5 +19,6 @@
       "type": "image/svg+xml"
     }
   ],
-  "id": "Organizer"
+  "id": "Organizer",
+  "lang": "pt"
 }
