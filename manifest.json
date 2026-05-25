@@ -1,24 +1,27 @@
 {
-  "name": "Organizer",
-  "short_name": "Organizer",
+  "name": "Meu Plano — Organizador",
+  "short_name": "MeuPlano",
+  "id": "meuplano",
   "description": "Organize tarefas, finanças e sonhos",
   "start_url": "https://tgrochabrq-commits.github.io/Organizer/",
+  "scope": "https://tgrochabrq-commits.github.io/Organizer/",
   "display": "standalone",
-  "background_color": "#fefafa",
-  "theme_color": "#75cb86",
+  "background_color": "#f5f2ee",
+  "theme_color": "#7a4fa8",
   "orientation": "portrait",
+  "lang": "pt-BR",
   "icons": [
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%237a4fa8'/%3E%3Ctext x='96' y='130' font-size='100' text-anchor='middle'%3E%E2%9C%A8%3C/text%3E%3C/svg%3E",
+      "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='80' fill='%237a4fa8'/%3E%3Ctext x='256' y='340' font-size='280' text-anchor='middle'%3E%E2%9C%A8%3C/text%3E%3C/svg%3E",
+      "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/svg+xml"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
-  ],
-  "id": "Organizer",
-  "lang": "pt"
+  ]
 }
